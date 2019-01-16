@@ -3,7 +3,7 @@ var app = express();
 
 app.get('/', function (req, res) {
   res.send({
-    "Output": "Hello Candidate!"
+    "Output": "Hello Minh!"
   });
 });
 
